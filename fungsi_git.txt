@@ -1,0 +1,8 @@
+PR (Nurul Sya'baniyah)
+Macam-macam git dan fungsinya:
+
+Git Add		: Menambahkan isi file ke indeks
+Git Commit	: Merekam perbubahan ke repositori
+Git Push		: Memperbarui ref terpencil bersama dengan benda-benda yang terkait
+Git Diff		: Menampilkan perubahan antara komit, melakukan dan pohon kerja, dll
+Git Reset		: Menga tur ulang kepala saat ke keadaan tertentu
